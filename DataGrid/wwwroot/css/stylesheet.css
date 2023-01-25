@@ -1,0 +1,26 @@
+﻿body {
+}
+
+
+table {
+    border: solid cornflowerblue 1px;
+    width: 100%;
+}
+
+td {
+    border: solid cornflowerblue 1px;
+   // width: 25%;
+}
+
+th {
+    border: solid cornflowerblue 1px;
+    width: 25%;
+}
+
+img {
+    border-collapse: collapse;
+}
+#btn_img {
+    border:none;
+    background-color:transparent !important;
+}
